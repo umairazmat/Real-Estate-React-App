@@ -1,0 +1,66 @@
+.head {
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 58px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #0f2b4a;
+}
+.parah {
+  text-align: center;
+  font-size: 10px;
+
+  /* identical to box height */
+
+  color: #576b81;
+}
+.p1 {
+  color: #576b81;
+  font-size: 12px;
+  text-align: center;
+}
+.h22 {
+  text-align: center;
+  color: #0f2b4a;
+  font-weight: bold;
+}
+.checked {
+  color: orange;
+}
+.pos2 {
+  position: relative;
+  left: 150px;
+  width: 30px;
+  height: 30px;
+}
+.pos4 {
+  position: relative;
+
+  top: 200px;
+}
+.pos3 {
+  position: relative;
+
+  top: 250px;
+}
+.pos6 {
+  position: relative;
+  left: 100px;
+  width: 30px;
+  height: 30px;
+}
+.pos7 {
+  position: relative;
+
+  top: 200px;
+  left: 30px;
+}
+.pos8 {
+  position: relative;
+
+  top: 150px;
+}

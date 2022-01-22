@@ -1,0 +1,16 @@
+.headings {
+  color: #0f2b4a;
+  font-size: 18px;
+  font-weight: bolder;
+}
+ul {
+  list-style-type: none; /* Remove bullets */
+  padding: 0; /* Remove padding */
+  margin: 0; /* Remove margins */
+  color: #576b81;
+  line-height: 30px;
+}
+.copyright {
+  color: #a2afbd;
+  text-align: end;
+}
